@@ -1,7 +1,7 @@
 # Hi,  I'm Fred Dunyo 
 <br/>
  
-- Python Developer | Django Developer |  Data Scientist
+- Software Engineer | Python Developer | Django Developer |  Data Scientist
 
 <br/>
 
