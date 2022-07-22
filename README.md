@@ -54,7 +54,10 @@
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=dunfred&theme=dracula" />
 <br/>
 
-<a href="https://github.com/aframson">
+<a href="https://github.com/dunfred">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dunfred&layout=compact&theme=dracula&count_private=true&langs_count=10" />
 </a> 
 <br/>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=dunfrec&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
