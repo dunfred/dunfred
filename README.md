@@ -46,14 +46,12 @@
 <br/>
 
 <div align="left">
-<img align="left" height='200px' src="https://github-readme-stats.vercel.app/api?username=dunfred&show_icons=true&include_all_commits=true&theme=dracula&count_private=true"/>
-</div>
-<br/>
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=dunfred&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dunfred&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dunfred&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
+
 <br/>
 
 ## 🏆 GitHub Trophies
