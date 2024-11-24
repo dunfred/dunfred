@@ -62,5 +62,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=dunfred&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 <br/>
 
+## Repo Activity
 
-
+![Alt](https://repobeats.axiom.co/api/embed/f2ac1b63c48122248cd2d71d4e62fc75f9735c1b.svg "Repobeats analytics image")
